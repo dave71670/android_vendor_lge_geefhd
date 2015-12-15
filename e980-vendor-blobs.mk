@@ -3,7 +3,7 @@
 # This file is created by Mr.MEX
 # =========================================
 
-LOCAL_PATH := vendor/lge/geehrc/proprietary/system
+LOCAL_PATH := vendor/lge/980/proprietary/system
 
 # system/bin
 PRODUCT_COPY_FILES += \
